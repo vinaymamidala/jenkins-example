@@ -1,6 +1,6 @@
 node
 {
-def mavenHome = tool name: "maven3.6.2"
+def mavenHome = tool name: "maven3.6.3"
 
 stage('Build')
 {
